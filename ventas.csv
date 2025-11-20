@@ -1,0 +1,5 @@
+id_venta,producto,cantidad,precio_unitario,total
+1,Laptop,1,900,900
+2,Mouse,2,15,30
+3,Teclado,1,30,30
+4,Monitor,1,150,150
